@@ -1,0 +1,2 @@
+# 모든 필드를 ANIMAL_ID 순으로 정렬해서 보여줌
+SELECT * FROM ANIMAL_INS ORDER BY ANIMAL_ID
